@@ -164,7 +164,7 @@ function Login() {
               }}
             />
 
-            <button
+            {/* <button
               type="button"
               className="btn btn-outline-secondary"
               onClick={() => setShowPassword(!showPassword)}
@@ -173,7 +173,7 @@ function Login() {
               }}
             >
               {showPassword ? "🙈" : "👁️"}
-            </button>
+            </button> */}
 
           </div>
 

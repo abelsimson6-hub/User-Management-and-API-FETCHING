@@ -200,7 +200,7 @@ function Register() {
               }}
             />
 
-            <button
+            {/* <button
               type="button"
               className="btn btn-outline-secondary"
               onClick={() =>
@@ -211,7 +211,7 @@ function Register() {
               }}
             >
               {showPassword ? "🙈" : "👁️"}
-            </button>
+            </button> */}
 
           </div>
 
